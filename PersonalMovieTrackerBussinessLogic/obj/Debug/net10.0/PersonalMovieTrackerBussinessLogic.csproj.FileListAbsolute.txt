@@ -1,0 +1,15 @@
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\bin\Debug\net10.0\PersonalMovieTrackerBussinessLogic.deps.json
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\bin\Debug\net10.0\PersonalMovieTrackerBussinessLogic.dll
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\bin\Debug\net10.0\PersonalMovieTrackerBussinessLogic.pdb
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\bin\Debug\net10.0\DataLogicLayer.dll
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\bin\Debug\net10.0\DataLogicLayer.pdb
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\PersonalMovieTrackerBussinessLogic.csproj.AssemblyReference.cache
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\PersonalMovieTrackerBussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\PersonalMovieTrackerBussinessLogic.AssemblyInfoInputs.cache
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\PersonalMovieTrackerBussinessLogic.AssemblyInfo.cs
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\PersonalMovieTrackerBussinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\Personal.D989FD0C.Up2Date
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\PersonalMovieTrackerBussinessLogic.dll
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\refint\PersonalMovieTrackerBussinessLogic.dll
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\PersonalMovieTrackerBussinessLogic.pdb
+C:\Users\tristan\source\repos\PersonalMovieTrackerBussinessLogic\obj\Debug\net10.0\ref\PersonalMovieTrackerBussinessLogic.dll

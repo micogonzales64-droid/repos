@@ -1,0 +1,11 @@
+C:\Users\tristan\source\repos\DataLogicLayer\bin\Debug\net10.0\DataLogicLayer.deps.json
+C:\Users\tristan\source\repos\DataLogicLayer\bin\Debug\net10.0\DataLogicLayer.dll
+C:\Users\tristan\source\repos\DataLogicLayer\bin\Debug\net10.0\DataLogicLayer.pdb
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.AssemblyInfoInputs.cache
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.AssemblyInfo.cs
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.dll
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\refint\DataLogicLayer.dll
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.pdb
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\ref\DataLogicLayer.dll

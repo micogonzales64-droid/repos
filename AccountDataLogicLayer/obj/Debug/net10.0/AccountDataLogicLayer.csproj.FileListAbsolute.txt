@@ -1,0 +1,12 @@
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\bin\Debug\net10.0\AccountDataLogicLayer.deps.json
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\bin\Debug\net10.0\AccountDataLogicLayer.dll
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\bin\Debug\net10.0\AccountDataLogicLayer.pdb
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\AccountDataLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\AccountDataLogicLayer.AssemblyInfoInputs.cache
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\AccountDataLogicLayer.AssemblyInfo.cs
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\AccountDataLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\AccountDataLogicLayer.sourcelink.json
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\AccountDataLogicLayer.dll
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\refint\AccountDataLogicLayer.dll
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\AccountDataLogicLayer.pdb
+C:\Users\tristan\source\repos\PersonalMovieTracker\AccountDataLogicLayer\obj\Debug\net10.0\ref\AccountDataLogicLayer.dll

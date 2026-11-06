@@ -1,0 +1,4 @@
+C:\Users\tristan\source\repos\Practices\Practices\obj\Debug\net10.0\Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan\source\repos\Practices\Practices\obj\Debug\net10.0\Practices.AssemblyInfoInputs.cache
+C:\Users\tristan\source\repos\Practices\Practices\obj\Debug\net10.0\Practices.AssemblyInfo.cs
+C:\Users\tristan\source\repos\Practices\Practices\obj\Debug\net10.0\Practices.csproj.CoreCompileInputs.cache
