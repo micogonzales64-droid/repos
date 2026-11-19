@@ -1,0 +1,16 @@
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\Form_PersonalMovieTracker.exe
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\Form_PersonalMovieTracker.deps.json
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\Form_PersonalMovieTracker.runtimeconfig.json
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\Form_PersonalMovieTracker.dll
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\Form_PersonalMovieTracker.pdb
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.Form1.resources
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.csproj.GenerateResource.cache
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.AssemblyInfoInputs.cache
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.AssemblyInfo.cs
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.csproj.CoreCompileInputs.cache
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.dll
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\refint\Form_PersonalMovieTracker.dll
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.pdb
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.genruntimeconfig.cache
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\ref\Form_PersonalMovieTracker.dll

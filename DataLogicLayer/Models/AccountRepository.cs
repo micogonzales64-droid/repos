@@ -14,7 +14,8 @@ namespace PersonalMovieTracker.DataAccess
         public void SaveAccounts(List<Account> accounts)
 
         {
-            string json = JsonSerializer.Serialize(accounts, new JsonSerializerOptions { WriteIndented = true});
+            string json = 
+                JsonSerializer.Serialize(accounts, new JsonSerializerOptions { WriteIndented = true});
             
 
             File.WriteAllText(filePath, json);
@@ -29,8 +30,7 @@ namespace PersonalMovieTracker.DataAccess
 
             string json = File.ReadAllText(filePath);
 
-            List<Account> accounts =
-                JsonSerializer.Deserialize<List<Account>>(json);
+            List<Account> accounts = JsonSerializer.Deserialize<List<Account>>(json);
 
             return accounts ?? new List<Account>();
         }
