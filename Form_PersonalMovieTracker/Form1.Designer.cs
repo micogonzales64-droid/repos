@@ -28,23 +28,23 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
+            lblWelcome = new Label();
             label2 = new Label();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
+            btnLogin = new Button();
+            btnCreateAccount = new Button();
+            btnExit = new Button();
             SuspendLayout();
             // 
-            // label1
+            // lblWelcome
             // 
-            label1.AutoSize = true;
-            label1.ForeColor = SystemColors.ActiveCaptionText;
-            label1.Location = new Point(297, 89);
-            label1.Name = "label1";
-            label1.Size = new Size(244, 20);
-            label1.TabIndex = 1;
-            label1.Text = "Welcome to Personal Movie Tracker";
-            label1.Click += label1_Click;
+            lblWelcome.AutoSize = true;
+            lblWelcome.ForeColor = SystemColors.ActiveCaptionText;
+            lblWelcome.Location = new Point(297, 89);
+            lblWelcome.Name = "lblWelcome";
+            lblWelcome.Size = new Size(244, 20);
+            lblWelcome.TabIndex = 1;
+            lblWelcome.Text = "Welcome to Personal Movie Tracker";
+            lblWelcome.Click += label1_Click;
             // 
             // label2
             // 
@@ -55,36 +55,36 @@
             label2.TabIndex = 2;
             label2.Click += label2_Click;
             // 
-            // button1
+            // btnLogin
             // 
-            button1.ForeColor = SystemColors.HotTrack;
-            button1.Location = new Point(297, 126);
-            button1.Name = "button1";
-            button1.Size = new Size(245, 29);
-            button1.TabIndex = 5;
-            button1.Text = "Login";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnLogin.ForeColor = SystemColors.HotTrack;
+            btnLogin.Location = new Point(297, 126);
+            btnLogin.Name = "btnLogin";
+            btnLogin.Size = new Size(245, 29);
+            btnLogin.TabIndex = 5;
+            btnLogin.Text = "Login";
+            btnLogin.UseVisualStyleBackColor = true;
+            btnLogin.Click += button1_Click;
             // 
-            // button2
+            // btnCreateAccount
             // 
-            button2.ForeColor = SystemColors.MenuHighlight;
-            button2.Location = new Point(297, 180);
-            button2.Name = "button2";
-            button2.Size = new Size(245, 29);
-            button2.TabIndex = 6;
-            button2.Text = "Create Account";
-            button2.UseVisualStyleBackColor = true;
+            btnCreateAccount.ForeColor = SystemColors.MenuHighlight;
+            btnCreateAccount.Location = new Point(297, 180);
+            btnCreateAccount.Name = "btnCreateAccount";
+            btnCreateAccount.Size = new Size(245, 29);
+            btnCreateAccount.TabIndex = 6;
+            btnCreateAccount.Text = "Create Account";
+            btnCreateAccount.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnExit
             // 
-            button3.ForeColor = SystemColors.Highlight;
-            button3.Location = new Point(297, 236);
-            button3.Name = "button3";
-            button3.Size = new Size(245, 28);
-            button3.TabIndex = 7;
-            button3.Text = "Exit";
-            button3.UseVisualStyleBackColor = true;
+            btnExit.ForeColor = SystemColors.Highlight;
+            btnExit.Location = new Point(297, 236);
+            btnExit.Name = "btnExit";
+            btnExit.Size = new Size(245, 28);
+            btnExit.TabIndex = 7;
+            btnExit.Text = "Exit";
+            btnExit.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -93,23 +93,24 @@
             BackColor = Color.LavenderBlush;
             BackgroundImageLayout = ImageLayout.Center;
             ClientSize = new Size(857, 450);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(btnExit);
+            Controls.Add(btnCreateAccount);
+            Controls.Add(btnLogin);
             Controls.Add(label2);
-            Controls.Add(label1);
+            Controls.Add(lblWelcome);
             ForeColor = SystemColors.Control;
             Name = "Form1";
             Text = "Movie Tracker PH";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-        private Label label1;
+        private Label lblWelcome;
         private Label label2;
-        private Button button1;
-        private Button button2;
-        private Button button3;
+        private Button btnLogin;
+        private Button btnCreateAccount;
+        private Button btnExit;
     }
 }

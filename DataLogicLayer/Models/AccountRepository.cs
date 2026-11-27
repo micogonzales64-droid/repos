@@ -9,8 +9,19 @@ namespace PersonalMovieTracker.DataAccess
 
     public class AccountRepository
     {
-        private readonly string filePath = "accounts.json";
-        
+        private readonly string filePath =
+        Path.Combine(
+        Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
+        "PersonalMovieTracker",
+        "accounts.json"
+    );
+        public AccountRepository()
+        {
+            string folderPath = Path.GetDirectoryName(filePath);
+
+            Directory.CreateDirectory(folderPath);
+        }
+
         public void SaveAccounts(List<Account> accounts)
 
         {

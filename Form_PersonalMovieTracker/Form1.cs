@@ -24,6 +24,15 @@ namespace Form_PersonalMovieTracker
 
         private void button1_Click(object sender, EventArgs e)
         {
+            {
+                LoginForm loginForm = new LoginForm();
+
+                loginForm.ShowDialog();
+            }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }

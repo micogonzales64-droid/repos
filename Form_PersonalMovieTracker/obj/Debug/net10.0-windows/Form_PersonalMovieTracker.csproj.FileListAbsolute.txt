@@ -14,3 +14,12 @@ C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-window
 C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.pdb
 C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.genruntimeconfig.cache
 C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\ref\Form_PersonalMovieTracker.dll
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\DataLogicLayer.dll
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\PersonalMovieTrackerBussinessLogic.dll
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\DataLogicLayer.pdb
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\bin\Debug\net10.0-windows\PersonalMovieTrackerBussinessLogic.pdb
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.csproj.AssemblyReference.cache
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.LoginForm.resources
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.sourcelink.json
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_Per.E5D6637E.Up2Date
+C:\Users\tristan\source\repos\Form_PersonalMovieTracker\obj\Debug\net10.0-windows\Form_PersonalMovieTracker.DashboardForm.resources

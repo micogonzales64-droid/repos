@@ -9,3 +9,4 @@ C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.dl
 C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\refint\DataLogicLayer.dll
 C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.pdb
 C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\ref\DataLogicLayer.dll
+C:\Users\tristan\source\repos\DataLogicLayer\obj\Debug\net10.0\DataLogicLayer.sourcelink.json

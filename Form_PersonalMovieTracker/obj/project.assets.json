@@ -1,11 +1,49 @@
 {
   "version": 4,
   "targets": {
-    "net10.0-windows": {}
+    "net10.0-windows": {
+      "DataLogicLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/DataLogicLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataLogicLayer.dll": {}
+        }
+      },
+      "PersonalMovieTrackerBussinessLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "DataLogicLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PersonalMovieTrackerBussinessLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PersonalMovieTrackerBussinessLogic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DataLogicLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataLogicLayer/DataLogicLayer.csproj",
+      "msbuildProject": "../DataLogicLayer/DataLogicLayer.csproj"
+    },
+    "PersonalMovieTrackerBussinessLogic/1.0.0": {
+      "type": "project",
+      "path": "../PersonalMovieTrackerBussinessLogic/PersonalMovieTrackerBussinessLogic.csproj",
+      "msbuildProject": "../PersonalMovieTrackerBussinessLogic/PersonalMovieTrackerBussinessLogic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0-windows": []
+    "net10.0-windows": [
+      "DataLogicLayer >= 1.0.0",
+      "PersonalMovieTrackerBussinessLogic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tristan\\.nuget\\packages\\": {}
@@ -34,7 +72,14 @@
         "net10.0-windows": {
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tristan\\source\\repos\\DataLogicLayer\\DataLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\tristan\\source\\repos\\DataLogicLayer\\DataLogicLayer.csproj"
+            },
+            "C:\\Users\\tristan\\source\\repos\\PersonalMovieTrackerBussinessLogic\\PersonalMovieTrackerBussinessLogic.csproj": {
+              "projectPath": "C:\\Users\\tristan\\source\\repos\\PersonalMovieTrackerBussinessLogic\\PersonalMovieTrackerBussinessLogic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

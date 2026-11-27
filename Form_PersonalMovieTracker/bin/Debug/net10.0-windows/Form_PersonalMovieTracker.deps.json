@@ -7,14 +7,47 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Form_PersonalMovieTracker/1.0.0": {
+        "dependencies": {
+          "DataLogicLayer": "1.0.0",
+          "PersonalMovieTrackerBussinessLogic": "1.0.0"
+        },
         "runtime": {
           "Form_PersonalMovieTracker.dll": {}
+        }
+      },
+      "DataLogicLayer/1.0.0": {
+        "runtime": {
+          "DataLogicLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "PersonalMovieTrackerBussinessLogic/1.0.0": {
+        "dependencies": {
+          "DataLogicLayer": "1.0.0"
+        },
+        "runtime": {
+          "PersonalMovieTrackerBussinessLogic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Form_PersonalMovieTracker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataLogicLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersonalMovieTrackerBussinessLogic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
